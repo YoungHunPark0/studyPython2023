@@ -67,6 +67,7 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는          3.142입니다.
     - 주소록 프로그램 [소스](https://github.com/YoungHunPark0/studyPython2023/blob/main/Project/address_app.py)
 
 ![실행화면](https://raw.githubusercontent.com/YoungHunPark0/studyPython2023/main/Images/address_app.png)
+
 실행화면
 
 
@@ -88,6 +89,8 @@ print(f'파이는 {pi:10.3f}입니다.')  # 파이는          3.142입니다.
         - BeautifulSoup 크롤링
 
 ![실행화면](https://raw.githubusercontent.com/YoungHunPark0/studyPython2023/main/Images/jupyter_folium.png)
+
+Folium OpenAPI 연동화면
 
 # 9일차
 1. 파이썬 응용
