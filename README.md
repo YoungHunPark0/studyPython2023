@@ -94,5 +94,8 @@ Folium OpenAPI 연동화면
 
 # 9일차
 1. 파이썬 응용
-    - GUI 개발(PyQt)
-    - 자료구조 추가
+    - GUI 개발
+        - Tkinter 소개
+        - PyQt 소개, 설치
+        
+    
