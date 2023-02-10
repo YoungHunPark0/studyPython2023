@@ -107,6 +107,6 @@ Folium OpenAPI 연동화면
         - PyQt 위젯 계속
         - PyQt 다이얼로그
             
-![실행화면](https://raw.githubusercontent.com/YoungHunPark0/studyPython2023/main/Images/jupyter_dialog.png)
+![실행화면](https://raw.githubusercontent.com/YoungHunPark0/studyPython2023/efbd450cc7de86016a39982a4d312b2ed77cf4da/Images/dialog.png)
 
 PyQt 실행화면
